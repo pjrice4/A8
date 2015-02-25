@@ -1,0 +1,224 @@
+{   "title": "I90 Corridor Hikes by Elevation",
+    "hikes":[
+      {
+        "Name":"Revolution Peak",
+        "StartLatitude":47.4698,
+        "StartLongitude":-121.6686,
+        "Length":16,
+        "ElevationGain":5454,
+        "TopElevation":4654,
+        "Slope":341,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Mailbox Peak",
+        "StartLatitude":47.4674,
+        "StartLongitude":121.6748,
+        "Length":5.2,
+        "ElevationGain":4000,
+        "TopElevation":4822,
+        "Slope":769,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Mount Teneriffe",
+        "StartLatitude":47.486,
+        "StartLongitude":-121.7009,
+        "Length":13.8,
+        "ElevationGain":3800,
+        "TopElevation":4788,
+        "Slope":275,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Granite Mountain",
+        "StartLatitude":47.3979,
+        "StartLongitude":-121.486,
+        "Length":8.6,
+        "ElevationGain":3800,
+        "TopElevation":5629,
+        "Slope":442,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"McClellan Butte",
+        "StartLatitude":47.4142,
+        "StartLongitude":-121.5884,
+        "Length":9,
+        "ElevationGain":3700,
+        "TopElevation":5162,
+        "Slope":411,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Green Mountain",
+        "StartLatitude":47.4878,
+        "StartLongitude":-121.6876,
+        "Length":10,
+        "ElevationGain":3600,
+        "TopElevation":4700,
+        "Slope":360,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Bandera Mountain",
+        "StartLatitude":47.4247,
+        "StartLongitude":-121.5836,
+        "Length":8,
+        "ElevationGain":3400,
+        "TopElevation":5240,
+        "Slope":425,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Mount Washington",
+        "StartLatitude":47.442,
+        "StartLongitude":-121.6722,
+        "Length":8.5,
+        "ElevationGain":3250,
+        "TopElevation":4450,
+        "Slope":382,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Mount Si",
+        "StartLatitude":47.488,
+        "StartLongitude":-121.7231,
+        "Length":8,
+        "ElevationGain":3150,
+        "TopElevation":3900,
+        "Slope":394,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Kendall Katwalk",
+        "StartLatitude":47.4287,
+        "StartLongitude":-121.4134,
+        "Length":11,
+        "ElevationGain":2600,
+        "TopElevation":5400,
+        "Slope":236,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Humpback Mountain",
+        "StartLatitude":47.3784,
+        "StartLongitude":-121.5162,
+        "Length":4,
+        "ElevationGain":2500,
+        "TopElevation":5474,
+        "Slope":625,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Snow Lake",
+        "StartLatitude":47.4454,
+        "StartLongitude":-121.423,
+        "Length":7.2,
+        "ElevationGain":1800,
+        "TopElevation":4400,
+        "Slope":250,
+        "HasPeak":"FALSE",
+        "HasWater":"TRUE"
+      },
+      {
+        "Name":"Mount Gardner",
+        "StartLatitude":47.3912,
+        "StartLongitude":-121.5577,
+        "Length":12,
+        "ElevationGain":1500,
+        "TopElevation":3800,
+        "Slope":125,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Annette Lake",
+        "StartLatitude":47.3927,
+        "StartLongitude":-121.4744,
+        "Length":7.5,
+        "ElevationGain":1400,
+        "TopElevation":3600,
+        "Slope":187,
+        "HasPeak":"FALSE",
+        "HasWater":"TRUE"
+      },
+      {
+        "Name":"Denny Creek",
+        "StartLatitude":47.4154,
+        "StartLongitude":-121.4433,
+        "Length":6,
+        "ElevationGain":1345,
+        "TopElevation":3642,
+        "Slope":224,
+        "HasPeak":"FALSE",
+        "HasWater":"TRUE"
+      },
+      {
+        "Name":"Little Si",
+        "StartLatitude":47.4878,
+        "StartLongitude":-121.7563,
+        "Length":4.7,
+        "ElevationGain":1300,
+        "TopElevation":1550,
+        "Slope":277,
+        "HasPeak":"TRUE",
+        "HasWater":"FALSE"
+      },
+      {
+        "Name":"Talapus and Olallie Lakes",
+        "StartLatitude":47.4007,
+        "StartLongitude":-121.519,
+        "Length":6.2,
+        "ElevationGain":1220,
+        "TopElevation":3780,
+        "Slope":197,
+        "HasPeak":"FALSE",
+        "HasWater":"TRUE"
+      },
+      {
+        "Name":"Rattlesnake Ridge",
+        "StartLatitude":47.4335,
+        "StartLongitude":-121.7675,
+        "Length":4,
+        "ElevationGain":1160,
+        "TopElevation":2078,
+        "Slope":290,
+        "HasPeak":"FALSE",
+        "HasWater":"TRUE"
+      },
+      {
+        "Name":"Franklin Falls",
+        "StartLatitude":47.413,
+        "StartLongitude":-121.4416,
+        "Length":2,
+        "ElevationGain":400,
+        "TopElevation":2600,
+        "Slope":200,
+        "HasPeak":"FALSE",
+        "HasWater":"TRUE"
+      },
+      {
+        "Name":"Snoqualmie Falls",
+        "StartLatitude":47.5582,
+        "StartLongitude":-121.8698,
+        "Length":1.4,
+        "ElevationGain":250,
+        "TopElevation":450,
+        "Slope":179,
+        "HasPeak":"FALSE",
+        "HasWater":"TRUE"
+      }
+    ]
+}
